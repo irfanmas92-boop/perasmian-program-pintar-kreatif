@@ -6,6 +6,9 @@
       ".firebaserc",
       ".gitignore",
       "**/.*",
+      "**/.*/**",
+      ".git/**",
+      ".firebase/**",
       "**/node_modules/**"
     ],
     "headers": [
